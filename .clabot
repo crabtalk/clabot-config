@@ -1,0 +1,6 @@
+{
+  "contributors": "https://api.github.com/repos/crabtalk/clabot-config/contents/contributors.json",
+  "label": "cla-signed",
+  "message": "We require contributors to sign our [Contributor License Agreement](https://github.com/crabtalk/clabot-config/blob/main/CLA.md), and we don't have {{usersWithoutCLA}} on file. To sign, comment here with: \"I have read the CLA document and I hereby sign the CLA.\"",
+  "recheckComment": "Re-checking the CLA status of this pull request."
+}
